@@ -1,0 +1,55 @@
+/* Body background */
+body {
+    background-color: #e2f3d3;
+  }
+  
+  /* Cards background */
+  .MuiPaper-root {
+    background-color: #c1e1b9;
+  }
+  
+  /* Table background */
+  .MuiTable-root {
+    background-color: #d3edd6;
+  }
+  
+  /* Table rows */
+  .MuiTableRow-root:nth-of-type(even) {
+    background-color: #c1e1b9;
+  }
+  
+  /* Table cells */
+  .MuiTableCell-root {
+    border-bottom: none;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  /* Input fields */
+  .MuiTextField-root {
+    background-color: #c1e1b9;
+  }
+  
+  /* Buttons */
+  .MuiButton-root {
+    background-color: #518c2d;
+    color: #fff;
+  }
+  
+  /* Modal */
+  .MuiDialog-paper {
+    background-color: #d3edd6;
+  }
+  
+  /* Modal buttons */
+  .MuiDialogActions-root {
+    background-color: #c1e1b9;
+  }
+  
+  /* Table footer */
+  .MuiTableFooter-root {
+    background-color: #c1e1b9;
+  }
+  form {
+    padding: 20px;
+  }

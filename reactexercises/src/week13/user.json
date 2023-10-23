@@ -1,0 +1,29 @@
+[
+  { "name": "Jyoti Patel", "age": 24, "email": "jspatel@gmail.com" },
+  {
+    "name": "Sophia Johnson",
+    "age": 35,
+    "email": "sophia.johnson@example.com"
+  },
+  {
+    "name": "Jackson Thompson",
+    "age": 29,
+    "email": "jackson.thompson@example.com"
+  },
+  {
+    "name": "Olivia Martinez",
+    "age": 28,
+    "email": "olivia.martinez@example.com"
+  },
+  { "name": "Liam Brown", "age": 31, "email": "liam.brown@example.com" },
+  { "name": "Emma Wilson", "age": 27, "email": "emma.wilson@example.com" },
+  { "name": "Noah Anderson", "age": 26, "email": "noah.anderson@example.com" },
+  { "name": "Ava Lee", "age": 33, "email": "ava.lee@example.com" },
+  { "name": "Lucas Turner", "age": 32, "email": "lucas.turner@example.com" },
+  {
+    "name": "Isabella Harris",
+    "age": 30,
+    "email": "isabella.harris@example.com"
+  },
+  { "name": "Yaksh Patel", "age": 24, "email": "yakshpatel@gmail.com" }
+]

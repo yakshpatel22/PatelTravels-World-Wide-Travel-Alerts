@@ -1,0 +1,17 @@
+.light {
+    border: solid;
+    width: 4.25rem;
+  }
+  .lamp {
+    height: 3rem;
+    width: 3rem;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50%;
+  }
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+  }

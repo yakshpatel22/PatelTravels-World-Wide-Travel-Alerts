@@ -1,0 +1,229 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+img.photo {
+  width: 100%;
+  height: auto;
+}
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.bigred {
+  font-family:"Courier New";
+  font-style: italic;
+  font-size: xx-large;
+  color: red;
+ }
+ body { place-items: unset !important;
+ }
+ @media only screen and (max-width: 600px) {
+  .card {
+  margin-left: 2vw;
+  margin-top: 10vh !important;
+  width: 96vw;
+  }
+ } */
+ /* .usersList {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  margin-left: 2vw;
+  box-sizing: border-box;
+  height: calc(50vh);
+  overflow-y: auto;
+  overflow-x: hidden;
+ }
+ body {
+  place-items: unset !important;
+ }
+ .card {
+  margin-left: 5vw;
+  margin-top: 15vh;
+  width: 90vw;
+ }
+ .userBubble {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: smaller;
+  position: relative;
+  padding: 2vw;
+  width: 50vw;
+  margin-bottom: -1em;
+  border-radius: 10px;
+  left: -3vw;
+  color: white;
+ }
+  */
+  /* .bigred {
+    font-family: "Courier New";
+    font-style: italic;
+    font-size: xx-large;
+    color: red;
+  }
+  
+  body {
+    place-items: unset !important;
+  }
+  
+  .ownMessage {
+    margin-left: auto;
+    margin-right: -10vw;
+  }
+  
+  .userBubble {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    position: relative;
+    padding: 2vw;
+    width: 50vw;
+    margin-bottom: -1em;
+    margin-top: 1em;
+    border-radius: 10px;
+    left: -3vw;
+    color: white;
+  }
+  
+  .usersList {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 2vw;
+    box-sizing: border-box;
+    height: calc(50vh);
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  
+  body {
+    place-items: unset !important;
+  }
+  
+  .card {
+    margin-left: 5vw;
+    margin-top: 15vh;
+    width: 90vw;
+  }
+  
+  .light {
+    border: solid;
+    width: 4.25rem;
+  }
+  
+  .scenario-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2em;
+  }
+  
+  .scenario-message {
+    width: 80%;
+    margin: 2px;
+    padding: 1em;
+    font-size: smaller;
+    font-weight: bold;
+  }
+  
+  .lamp {
+    height: 3rem;
+    width: 3rem;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50%;
+  }
+  
+  .connected {
+    display: block !important;
+  }
+  
+  .disconnected {
+    display: none !important;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100vw;
+    margin-left: 3vw;
+    margin-bottom: 50vh;
+  }
+  
+  @media only screen and (max-width: 300px) {
+    .card {
+      margin-left: 2vw;
+      margin-top: 10vh !important;
+      width: 96vw;
+    }
+  
+    #word {
+      size: small;
+    }
+  } */@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main {
+  flex: 1;
+  padding: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+  background-color: #212121;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  height: 64px;
+  padding: 0 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 2rem;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
