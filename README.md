@@ -70,7 +70,7 @@ As a computer programmer, I embarked on a journey to create Patel Travel, a dyna
 
 - Experienced the satisfaction of building a functional, user-oriented application from scratch.
 - Celebrated the project's completion as a testament to creativity, dedication, and problem-solving skills.
-- <img width="242" alt="Home" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/12e5b2c8-6330-4038-81e6-12ed9e86b39d">
+<img width="242" alt="Home" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/12e5b2c8-6330-4038-81e6-12ed9e86b39d">
 <img width="242" alt="options" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/f2ed570c-3381-4818-8cef-54eacd5e997f">
 <img width="242" alt="fetched" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/7a5a1e81-4b40-4354-bf92-653d295763cd">
 <img width="242" alt="add advisory" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/ccc981d2-b1f3-41e7-8f63-21a128e16eca">
