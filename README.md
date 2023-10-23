@@ -75,7 +75,7 @@ As a computer programmer, I embarked on a journey to create Patel Travel, a dyna
 <img width="246" alt="fetched" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/7a5a1e81-4b40-4354-bf92-653d295763cd">
 <img width="242" alt="add advisory" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/ccc981d2-b1f3-41e7-8f63-21a128e16eca">
 <img width="242" alt="added advisory" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/c15e12a8-f40e-430d-b2e0-c34b9468ac95">
-<img width="242" alt="ListByTraveller" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/7bfcfad1-7540-4f1b-ab00-791504029f1b">
+<img width="246" alt="ListByTraveller" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/7bfcfad1-7540-4f1b-ab00-791504029f1b">
 <img width="242" alt="listByRegion" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/5f6b905e-e5dd-4178-9b39-e4d6ec7a8b55">
 <img width="242" alt="Subregion" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/5e321d04-7242-4828-92b4-e48885a0644c">
 
