@@ -3,6 +3,7 @@
 ## Project Description
 
 As a computer programmer, I embarked on a journey to create Patel Travel, a dynamic travel alert system powered by JavaScript, Node.js, CSS, and HTML. This project isn't just code; it's an invitation to explore the world with confidence.
+
 <img width="242" alt="Home" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/12e5b2c8-6330-4038-81e6-12ed9e86b39d">
 <img width="242" alt="options" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/f2ed570c-3381-4818-8cef-54eacd5e997f">
 <img width="246" alt="fetched" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/7a5a1e81-4b40-4354-bf92-653d295763cd">
@@ -11,6 +12,7 @@ As a computer programmer, I embarked on a journey to create Patel Travel, a dyna
 <img width="246" alt="ListByTraveller" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/7bfcfad1-7540-4f1b-ab00-791504029f1b">
 <img width="240" alt="listByRegion" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/5f6b905e-e5dd-4178-9b39-e4d6ec7a8b55">
 <img width="242" alt="Subregion" src="https://github.com/yakshpatel22/PatelTravels-World-Wide-Travel-Alerts/assets/94410692/5e321d04-7242-4828-92b4-e48885a0644c">
+
 ### Features
 
 - **A World of Possibilities**: Patel Travel is more than just a travel sidekick; it's your insider's guide to the world. For globetrotters planning their adventures and travel agents shaping dream vacations, this platform is a game-changer.
