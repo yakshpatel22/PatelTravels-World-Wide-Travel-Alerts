@@ -1,0 +1,29 @@
+{
+  "name": "nodeexercises",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "info3139 Server exercises",
+  "main": "app.js",
+  "author": "Yaksh Patel",
+  "license": "ISC",
+  "engines": {
+    "node": "16.13"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.2.0",
+    "@fastify/static": "^6.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fastify": "^4.12.0",
+    "got": "^12.5.3",
+    "graphql": "^16.6.0",
+    "mercurius": "^12.0.0",
+    "mongodb": "^4.13.0",
+    "yargs": "^17.6.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {}
+}
